@@ -1,7 +1,7 @@
 # Deep-Dream-using-Tensorflow
  
 Deep Dream is a computer vision program created by Google which uses convolutional neural networks to find and enhance patterns in images thus creating a dream like hallucinogenic apppearance in the deliberately over_processed images.
-We are using [inception5h]((https://storage.googleapis.com//download.tensorflow.org//models//inception5h.zip)) from Tensorflow for the problem.
+We are using [inception5h](https://storage.googleapis.com//download.tensorflow.org//models//inception5h.zip) from Tensorflow for the problem.
 
 ### Code and Resources
 
