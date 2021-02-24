@@ -11,7 +11,7 @@ We are using [inception5h]((https://storage.googleapis.com//download.tensorflow.
 
 **Dataset:** Google
 
-**Keywords:** Deep learning, Computer vision, Neural Networks, Image Enhancer
+**Keywords:** Deep learning, Computer vision, Neural Networks, Image Processing
 
 **Step 1:** Import all required Libraries and Modules. Download and Extract the data as well.
 
