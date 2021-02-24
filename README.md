@@ -35,7 +35,7 @@ We are using [inception5h]((https://storage.googleapis.com//download.tensorflow.
 
 **Results**
 
-![drugs]()
+![drugs](https://github.com/ShrishtiHore/Deep-Dream-using-Tensorflow/blob/master/dream.jpg)
 
 **References**
 
